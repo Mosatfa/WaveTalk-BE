@@ -8,9 +8,9 @@ import cloudinary from 'cloudinary';
 
 
 cloudinary.v2.config({
-    api_key:"dwbl7l17r",
-    api_secret:"362848569251581",
-    cloud_name:"3uiLs5XZ_1JE8a3qXj2yN7PgOqo",
+    api_key:"",
+    api_secret:"",
+    cloud_name:"",
     secure: true
 })
 
